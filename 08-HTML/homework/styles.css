@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(193, 240, 25);
+}
+
+img {
+    width:400px ;
+    height: 250px;
+    border: 2px solid yellow;
+}
+
+#thirdDiv {
+     width: 500px; 
+    height: 600px;
+    background-color: rgb(26, 138, 102);
+    padding: 50px;
+    border: 5px solid black;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    
+}
+
+body{
+    background: url(https://www.todofondos.net/wp-content/uploads/fondo-de-pantalla-abstracto-11-3840-x-2160-stmed.net_.-fondo-de-pantalla-4k-ultra-hd-abstractos-768x432.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+ul {
+    list-style: none;
+
+    }
